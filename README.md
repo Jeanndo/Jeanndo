@@ -13,7 +13,7 @@
 ### Gist About Me
 
 - 🔭 I am a full-stack developer.
-- 👯 I get what you need, let's our hands  get dirt with coding.
+- 👯 Don't miss the target, here i get what you need, let's get our hands dirt with coding.
 - 📫Inbox me: <a href="mailto:ukwjeandedieu1@gmail.com">send me an email</a>
 - ⚡ Fun fact: You can call me fun guy!
 
