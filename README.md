@@ -10,18 +10,18 @@ Wenig über mich:
   ✔ Ich wohne in Kigali
   ✔ Ich bin informatiker von beruf
 
+Interessen:
+
+ ✔ Machine learning
+ ✔ Data science
+ ✔ Web development
+ ✔ Frontend Development
+
 mein hobbys sind:
 
  ✔ Guitar Spielen
  ✔ Musik hören
  ✔ Fahrrad Fahren.
-
-Interessen:
-
-✔ Machine learning
-✔ Data science
-✔ Web development
-✔ Frontend Development
 
 Sprachen:
 
