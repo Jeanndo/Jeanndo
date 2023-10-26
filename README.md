@@ -8,7 +8,7 @@ Wenig über mich:
   ✔ Ich bin Jean De Dieu UKWITESE
   ✔ Ich Komme aus Rwanda
   ✔ Ich wohne in Kigali
-  ✔ Ich bin informatiker von beruf
+  ✔ Ich bin Programmierer
 
 Interessen:
 
